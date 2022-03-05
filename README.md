@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @acsalan
 - 👀 I’m interested in information technology
-- 🌱 I’m currently learning ...
+- 🌱 I’m currently learning ...Tecnologia da informação
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me tunica2013@gmail.com
 
