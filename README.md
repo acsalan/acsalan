@@ -16,7 +16,8 @@
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
 ![NODE.JS](https://img.shields.io/badge/-NODE.JS-05122A?style=flat&logo=NODE.JS)&nbsp;
 ![GIT](https://img.shields.io/badge/-GIT-05122A?style=flat&logo=GIT)&nbsp;
-![GitHub](https://img.shields.io/badge/-GITHUB-05122A?style=flat&logo=GITHUB)&nbsp;
+![GitHub](https://img.shields.io/badge/-GITHUB-05122A?style=flat&logo=GITHUB)&nbsp;    
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java)&nbsp;
 
 
 <br><br>
