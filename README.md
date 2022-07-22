@@ -17,7 +17,10 @@
 ![NODE.JS](https://img.shields.io/badge/-NODE.JS-05122A?style=flat&logo=NODE.JS)&nbsp;
 ![GIT](https://img.shields.io/badge/-GIT-05122A?style=flat&logo=GIT)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GITHUB-05122A?style=flat&logo=GITHUB)&nbsp;    
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java)&nbsp;
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java)&nbsp;    
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap)&nbsp;
+![Visual StudioCode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code)&nbsp;
+
 
 
 <br><br>
