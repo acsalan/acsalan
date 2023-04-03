@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me tunica2013@gmail.com
 - 👜 Disponível para o mercado de trabalho     
-- 📱 contato (86)98873-0654          
+- 📱 contato (16)99749-8935         
 
 
 
